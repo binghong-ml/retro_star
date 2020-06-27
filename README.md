@@ -5,7 +5,7 @@ Retro*: Learning Retrosynthetic Planning with Neural Guided A* Search
 ```bibtex
 @inproceedings{chen2020retro,
   title={Retro*: Learning Retrosynthetic Planning with Neural Guided A* Search},
-  author={Chen, Binghong and Li, Chengtao and Dai, Hanjun and Le Song},
+  author={Chen, Binghong and Li, Chengtao and Dai, Hanjun and Song, Le},
   booktitle={The 37th International Conference on Machine Learning (ICML 2020)},
   year={2020}
 }
