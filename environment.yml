@@ -1,0 +1,20 @@
+name: retro_star_env
+channels:
+  - rdkit
+  - conda-forge
+  - pytorch
+  - anaconda
+  - defaults
+dependencies:
+  - python=3.7
+  - torchvision
+  - cpuonly
+  - pytorch
+  - pandas
+  - rdkit
+  - tqdm
+  - networkx
+  - graphviz
+  - python-graphviz
+prefix: /home/binghong/miniconda3/envs/retro_star_env
+
