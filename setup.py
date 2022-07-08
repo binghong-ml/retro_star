@@ -1,9 +1,9 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
     name='retro_star',
     version='',
-    packages=['retro_star'],
+    packages=find_packages(),
     url='',
     license='',
     author='binghong',
