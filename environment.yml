@@ -12,6 +12,7 @@ dependencies:
   - pytorch
   - pandas
   - rdkit
+  - rdchiral
   - tqdm
   - networkx
   - graphviz

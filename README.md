@@ -35,7 +35,6 @@ and put all the folders (```dataset/```, ```one_step_model/``` and ```saved_mode
 Install the retrosynthetic planning library with the following commands.
 
     pip install -e retro_star/packages/mlp_retrosyn
-    pip install -e retro_star/packages/rdchiral
     pip install -e .
 
 #### 4. Reproduce experiment results
